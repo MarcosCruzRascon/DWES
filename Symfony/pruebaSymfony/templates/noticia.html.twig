@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>{% block title %}Welcome!{% endblock %}</title>
+        {% block stylesheets %}{% endblock %}
+
+        {% block javascripts %}{% endblock %}
+    </head>
+    <body>
+    <h1>{{ titulo }}</h1>
+        {% for fila in filas%}
+            <a href="{{fila['url']}}">{{fila['titular']}}</a><br/>
+        {% endfor %}
+    </body>
+</html>

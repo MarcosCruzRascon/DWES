@@ -1,0 +1,36 @@
+div.titulo {
+    text-align: center;
+}
+
+div.nombre {
+    float: right;
+    margin-right: 10%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+a:link,
+a:visited {
+    background-color: #051838;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 5px;
+    margin-left: 20px;
+    height: 7px;
+}
+
+a:hover,
+a:active {
+    background-color: red;
+}

@@ -1,0 +1,15 @@
+usuario : marcosCruz
+contraseña : 1234
+
+
+Codigos examens
+{
+	cod examen disponible para hacer = E1INF
+
+	cod examen ya pasado = E2INF
+
+	cod examen ya realizado = E3INF
+
+	cod examen aun por hacer pero no disponible = E4INF
+
+}

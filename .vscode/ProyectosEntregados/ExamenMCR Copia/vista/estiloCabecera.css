@@ -1,0 +1,53 @@
+/* Style the body */
+
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+
+/* Header/Logo Title */
+
+.header {
+    padding: 10px;
+    text-align: left;
+    background: #238A30;
+    color: white;
+    font-size: 30px;
+}
+
+img {
+    float: left;
+    margin-right: 1%;
+}
+
+
+/* Page Content */
+
+.content {
+    padding: 1px;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+
+.topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}

@@ -1,0 +1,1 @@
+<h1>pantalla 2</h1>

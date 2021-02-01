@@ -1,0 +1,5 @@
+AuthName "Contenido restringido"
+AuthType Basic
+AuthUserFile C:/wamp64/usuarios/users
+ 
+require valid-user
