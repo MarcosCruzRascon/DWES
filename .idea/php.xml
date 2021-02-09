@@ -103,6 +103,8 @@
       <path value="$PROJECT_DIR$/NegocioMarcosCruz/vendor/egulias/email-validator" />
       <path value="$PROJECT_DIR$/NegocioMarcosCruz/vendor/twig/twig" />
       <path value="$PROJECT_DIR$/NegocioMarcosCruz/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/NegocioMarcosCruz/vendor/symfony/google-mailer" />
+      <path value="$PROJECT_DIR$/NegocioMarcosCruz/vendor/symfonycasts/verify-email-bundle" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
